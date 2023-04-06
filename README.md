@@ -1,6 +1,6 @@
 # Hi there, I'm Babatunde 👋
 
-![banner image](./banner.png)
+![My Profile Picture](https://raw.githubusercontent.com/Babatunde50/Babatunde50/main/IMG_4359.jpg)
 
 ## 📖 About Me
 
